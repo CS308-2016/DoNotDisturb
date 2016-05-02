@@ -1,1 +1,0 @@
-"./lab-1.obj" "./tm4c123gh6pm_startup_ccs.obj" "/Applications/ti/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -l"libc.a" 
